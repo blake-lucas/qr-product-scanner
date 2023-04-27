@@ -1,0 +1,22 @@
+{
+  "name": "qr-product-scanner",
+  "version": "1.0.0",
+  "description": "Used for scanning QR product codes to append items to ConnectWise tickets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blake-lucas/qr-product-scanner.git"
+  },
+  "author": "Blake Lucas",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/blake-lucas/qr-product-scanner/issues"
+  },
+  "homepage": "https://github.com/blake-lucas/qr-product-scanner#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
