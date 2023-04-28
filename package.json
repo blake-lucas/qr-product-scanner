@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/blake-lucas/qr-product-scanner#readme",
   "dependencies": {
+    "connectwise-rest": "^1.2.1",
     "express": "^4.18.2"
   }
 }
